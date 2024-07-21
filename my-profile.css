@@ -1,0 +1,19 @@
+.name {
+    color: beige;
+    text-align: center;
+}
+
+.my-details {
+    border: 1px solid black;
+    max-width: 500px;
+    list-style: none;
+    padding: 10px;
+}
+
+.detail {
+    padding: 5px 2px;
+}
+
+.detail:hover {
+    background-color: bisque;
+}
